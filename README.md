@@ -1,7 +1,7 @@
 catmull-rom-svg-sample
 ======================
 
-This is a sample project for a blog post.
+This is a sample project for a blog post: https://advancedweb.hu/2014/10/28/plotting_charts_with_svg/
 
 ### Usage
 
